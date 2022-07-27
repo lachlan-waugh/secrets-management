@@ -1,1 +1,1 @@
-damn, I keep accidentally pushing secrets, I better make sure to get rid of them FLAG{MY_SUPER1}
+ahh, finally, I've removed all of those annoying secrets from my repo.
